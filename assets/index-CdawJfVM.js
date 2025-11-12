@@ -1,0 +1,1 @@
+import{d as t,r as s,c as r,a as c,f as l,b as _,t as p,F as i,o as m}from"./index-CVnqDv_F.js";const d={style:{"margin-top":"30px"}},h=t({__name:"index",setup(u){const e=s(""),a=o=>{e.value=JSON.stringify(o)};return(o,f)=>{const n=_("wn-choose-area");return m(),r(i,null,[c(n,{onChange:a}),l("div",d,p(e.value),1)],64)}}});export{h as default};
